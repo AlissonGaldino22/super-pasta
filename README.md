@@ -12,4 +12,4 @@ texto normal.
 Neste Repositório vamos ver os super-poderes de versionamento
 
 # Exemplo inserindo uma imagem
-![Imagem Qualquer](https://www.digitalocean.com/api/static-content/v1/images?src=%2F_next%2Fstatic%2Fmedia%2Fintro-to-cloud.d49bc5f7.jpeg&width=1920)
+![Imagem Qualquer](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FYsamo7%2Fstatus%2F1401905675337351168&psig=AOvVaw1-OCXdYpzRNq8Mhfs3CyqP&ust=1724892026907000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOj-ita5logDFQAAAAAdAAAAABAE)
