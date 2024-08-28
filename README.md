@@ -17,4 +17,6 @@ Neste Repositório vamos ver os super-poderes de versionamento
 
 
 
+Dentro do colchete vai o texto, dentro do parentesis, vai o endereço da imagem (link)
 
+[![clique aqui](https://www.reddit.com/r/HUEstation/comments/qul8uq/rato_fumando_cigarro/?rdt=37157)
