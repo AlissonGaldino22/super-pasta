@@ -21,4 +21,4 @@ Dentro do colchete vai o texto, dentro do parentesis, vai o endereço da imagem 
 
 [clique aqui](https://www.reddit.com/r/HUEstation/comments/qul8uq/rato_fumando_cigarro/?rdt=37157)
 
-
+[![Imagem Qualquer](https://preview.redd.it/5w7v7151lsz71.jpg?width=612&format=pjpg&auto=webp&s=7bf64ee5ced85a46f4ce2b925926ebb64cdaae07)](https://www.reddit.com/r/HUEstation/comments/qul8uq/rato_fumando_cigarro/?rdt=37157)
