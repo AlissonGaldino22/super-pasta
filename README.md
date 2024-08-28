@@ -12,4 +12,4 @@ texto normal.
 Neste Repositório vamos ver os super-poderes de versionamento
 
 # Exemplo inserindo uma imagem
-![Imagem Qualquer](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FYsamo7%2Fstatus%2F1401905675337351168&psig=AOvVaw1-OCXdYpzRNq8Mhfs3CyqP&ust=1724892026907000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOj-ita5logDFQAAAAAdAAAAABAE)
+![Imagem Qualquer](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FPescocoFino%2Fstatus%2F1115323861841711104&psig=AOvVaw1eJz_IjqKt-gDLH7R4u1h5&ust=1724892205729000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCxl6u6logDFQAAAAAdAAAAABAE)
